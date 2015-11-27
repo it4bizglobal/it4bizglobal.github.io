@@ -1,6 +1,7 @@
 # it4bizglobal.github.io
 IT4biz Global Github Page
 
+http://it4bizglobal.github.io<BR>
 
 https://pages.github.com<BR>
 
