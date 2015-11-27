@@ -2,18 +2,18 @@
 IT4biz Global Github Page
 
 
-https://pages.github.com
+https://pages.github.com<BR>
 
 
-Demo Templates:
-http://it4bizglobal.github.io/templates/creative-theme-jekyll
-http://it4bizglobal.github.io/templates/startbootstrap-grayscale-1.0.4
-http://it4bizglobal.github.io/templates/startbootstrap-agency-1.0.4
-http://it4bizglobal.github.io/templates/startbootstrap-sb-admin-2-1.0.7
-http://it4bizglobal.github.io/templates/startbootstrap-freelancer-1.0.3
+Demo Templates:<BR>
+http://it4bizglobal.github.io/templates/creative-theme-jekyll<BR>
+http://it4bizglobal.github.io/templates/startbootstrap-grayscale-1.0.4<BR>
+http://it4bizglobal.github.io/templates/startbootstrap-agency-1.0.4<BR>
+http://it4bizglobal.github.io/templates/startbootstrap-sb-admin-2-1.0.7<BR>
+http://it4bizglobal.github.io/templates/startbootstrap-freelancer-1.0.3<BR>
 
-creative-theme-jekyll		
-startbootstrap-grayscale-1.0.4
-startbootstrap-agency-1.0.4	
-startbootstrap-sb-admin-2-1.0.7
-startbootstrap-freelancer-1.0.3
+creative-theme-jekyll		<BR>
+startbootstrap-grayscale-1.0.4 <BR>
+startbootstrap-agency-1.0.4	 <BR>
+startbootstrap-sb-admin-2-1.0.7 <BR>
+startbootstrap-freelancer-1.0.3 <BR>
